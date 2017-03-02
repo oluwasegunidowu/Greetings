@@ -12,7 +12,7 @@ import java.util.Scanner;
 		  String upperCaseName;
 	        
 		   System.out.print("Please enter your name: ");
-	        usersName = stdin.nextLine();
+	            usersName = stdin.nextLine();
 		
 		     upperCaseName = usersName.toUpperCase();
 		
