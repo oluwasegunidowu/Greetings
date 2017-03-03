@@ -15,7 +15,7 @@ import java.util.Scanner;
 	    System.out.print("Please enter your name: " + name);
 	    usersName = stdin.nextLine();
 	    upperCaseName = usersName.toUpperCase();
-	    if (name ==1 );
+	    if (name == 1 );
 	        { 
 	       System.out.println("Hi, "+ upperCaseName + ", its nice to meet you on this beautiful day." );
 	        } 
